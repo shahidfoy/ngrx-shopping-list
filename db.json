@@ -1,0 +1,16 @@
+{
+  "shopping": [
+    {
+      "id": 1,
+      "name": "Pepsi Max"
+    },
+    {
+      "id": "34667fb5-e87d-4d7b-a7e8-4ee404882bb1",
+      "name": "Sprite"
+    },
+    {
+      "id": "b9f337cc-4f5d-42c9-b4c2-4705d41735fb",
+      "name": "Sprite"
+    }
+  ]
+}
